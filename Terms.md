@@ -1,7 +1,8 @@
 ###### Shapley value
 value quantifying the contribution to the final result
 
-**Shapley explainer** = 
+###### Shapley explainer
+
 
 ###### Schelling(focal) point
 ^d89a6d

@@ -1,7 +1,7 @@
 #### *Def* [1]
 - Curation markets allows groups to coordinate around shared goals (and interests) and benefit from the value they collectively create.
 - Curation markets leverage the wisdom of the crowd
-- The main relation in a curation market is its [[Bonding curve|bonding curve]] [3]
+- The main relation in a curation market is its [[Bonding curve|bonding curve]] [2]
 
 ##### Representation
 - Rules for value tokenization are implemented in a smart contract that acts as a [[Terms#^d89a6d|schelling point]] for coordination.
@@ -11,12 +11,12 @@ title: works only on ethereum?
 collapse: closed
 ```
 
-#### Problems solved
+#### Problems solved [1]
 - Inability of extracting collectively created value
 - Difficult coordination in unstructured groups
 - Increasingly abundance of novel information
 
-#### Core characteristics [2]
+#### Core characteristics [3]
 - A token that can be minted at any time (continuous) according to a price set by the smart contract.
 - This price gets more expensive as more tokens are in circulation. 
 ```ad-tip
@@ -41,6 +41,8 @@ collapse: closed
 
 
 
+[paper]()
+
 
 
 #### *References*
@@ -48,6 +50,7 @@ collapse: closed
 [1] - de la Rouviere, S., 2017. *Curation markets* [online] 
 Available at: https://docs.google.com/document/d/1VNkBjjGhcZUV9CyC0ccWYbqeOoVKT2maqX0rK3yXB20/edit
 
-[2] - de la Rouviere, S., 2017. _Introducing Curation Markets: Trade Popularity of Memes & Information (with code)!_. [online] Medium. Available at: <https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881> . 
+[2] - https://blog.oceanprotocol.com/curated-proofs-markets-a-walk-through-of-oceans-core-token-mechanics-3d50851a8005
 
-[3] - https://blog.oceanprotocol.com/curated-proofs-markets-a-walk-through-of-oceans-core-token-mechanics-3d50851a8005
+[3] - de la Rouviere, S., 2017. _Introducing Curation Markets: Trade Popularity of Memes & Information (with code)!_. [online] Medium. Available at: <https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881> . 
+
