@@ -122,7 +122,6 @@ collapse: close
 
 
 
-
 Other use cases:
 - leveraging marketplaces
 - privacy-preserving compute
