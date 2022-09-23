@@ -1,4 +1,3 @@
-
 ### *Tasks*:
 + finish ocean paper
 + look into data purgatory
@@ -9,6 +8,8 @@
 
 
 #### Actors identities
+
+***First tier***
 - **publisher**:
 		1. click publish
 		2. fills out metadata
@@ -22,6 +23,7 @@
 		5. hit *publish*
 			- deploy a datatoken contract
 			- publish metadata *on-chain*
+*Problem*: ?mitigate rug-pulling()
 ```ad-question
 title: dynamic(automatic) price mechanism = custom bonding curve? 
 collapse: close
@@ -32,22 +34,23 @@ quadratic auctions based on q voting
 
 ```
 
-- **data providers** (liquidity providers-LPs/stakers)
-	- ?mitigate rug-pulling()
-- **data consumers** (buyers)
-	- *Buy*:
-		1. connects wallet
-		2. they already have some OCEAN
-		3. click 'buy'
-		4. Metamask asks for confirmation to swap OCEAN tokens for  1.0 datatokens
-		5. the swap happens *on-chain*
-	- *Consume*:
-		1. connects wallet
-		2. go to the dataset page corresponding to the datatoken you own
-		3. click 'Use'
-			- downloaded dataset 
-					- *Problem*: privacy
-			- results of bringing compute-to-data
+- **data providers** (liquidity providers - LPs/stakers)
+	- 
+- **buyers**
+	1. connects wallet
+	2. they already have some OCEAN
+	3. click 'buy'
+	4. Metamask asks for confirmation to swap OCEAN tokens for  1.0 datatokens
+	5. the swap happens *on-chain*
+- **consumers**
+	1. connects wallet
+	2. go to the dataset page corresponding to the datatoken you own
+	3. click 'Use'
+		- downloaded dataset 
+				- *Problem*: privacy
+		- results of bringing compute-to-data
+				- *Problem*: not done yet
+
 
 ```ad-question
 title: why swap for 1.0 datatokens?
@@ -85,13 +88,18 @@ title: Ocean Aquarius probably takes care of on-chain encrypt/decrypt of metadat
 - **3rd parties**:
 	- independent third-party marketplace runners (e.g. Daimler)
 			- *runs client-side in browser using Ocean JS library -> common  decentralized backend*
-	-  
+
+```ad-question
+title: liquidity providers are the same as marketplace runners?
+collapse: close
+```
+
 
 
 #### Actions
 - publish data
 - set price
-- curate data
+- stake datatokens
 - *discover data*: browsing, searching and filtering
 - buy/sell data
 - consume data
