@@ -3,6 +3,7 @@
 
 ### Tasks
 - better formalize incentives
+- look at eigentrust
 
 
 
@@ -27,6 +28,7 @@
 		- use subgraphs with the API in dapps
 	- *Incentives*:
 			- *get indexed on Graph and advertised in Graph Explore*
+				- more data
 
 ```ad-danger 
 title: Find more Incentives for developers
