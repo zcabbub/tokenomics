@@ -1,12 +1,6 @@
 https://thegraph.com/docs/en/
 
 
-### Tasks
-- better formalize incentives
-- look at eigentrust
-
-
-
 ### What is the Graph?
 - an indexing protocol
 - can build and publish open APIs, called subgraphs
