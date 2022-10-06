@@ -1,9 +1,6 @@
 ### *Tasks*:
 + finish ocean paper
 + look into data purgatory
-+ create an ocean account
-+ create binning framework for agents(actors)
-		- divide into first tier and second tier
 + competitors: kylin, graph(useful and good design), uniswap
 
 
