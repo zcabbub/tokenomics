@@ -1,9 +1,9 @@
 ### *Internal actors*:
 
-***Essential***:
-- #### Community
+##### ***Essential***:
+- ##### Community
 	*Incentives*: 
-		- buy Valyu to either be part of Valyu community
+		- buy Valyu to be part of Valyu community
 - ##### Data Buyers
 - ##### Data providers
 - ##### Curators/Stakers
@@ -14,13 +14,14 @@
 			- receive a part of the 
 			- be part of a dataset community (*e.g. interested people about a boardgames data*) (Supporters)
 
-***Optional***:
-	- these services can be centralized and revenue streams
+##### ***Optional***:
+	- these services can be centralized and create revenue streams
 - ##### Data labellers
 		- label data for Valyu rewards?
 - ##### Data processers/cleaners
-- ##### Data decentralized trainers 
-		- consisting in nodes for federated learning?
+- ##### Data decentralized trainers
+		- offer compute-to-data
+		- potentially consisting in nodes for [[Federated Learning]]
 
 
 ### *External actors*:
