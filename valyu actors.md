@@ -7,7 +7,7 @@
 - ##### Data Buyers
 - ##### Data providers
 - ##### Curators/Stakers
-		- also called Internal Liquidity Providers
+		- also called Internal Liquidity Providers (in terms of data and economical)
 		- have their knowledge tested, to inspire trustful choices/staking.
 	*Incentives:*
 		- stake Valyu and get datatokens to:
@@ -72,4 +72,4 @@ He will look into Valyu and get an *access token* to the Discord channel where o
 
 - 
 
-### External Actors
+Bounty board 
