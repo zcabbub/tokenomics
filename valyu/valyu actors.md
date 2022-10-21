@@ -73,3 +73,7 @@ He will look into Valyu and get an *access token* to the Discord channel where o
 - 
 
 Bounty board 
+
+
+3 party ecosystem
+
