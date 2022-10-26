@@ -13,6 +13,7 @@
 
 
 *create*:
+- curator design to get closer to valyu, trust into curators
 - create actors for '?many-to-many' data markets
 		- ebay style
 - define data in terms of asset characteristics
