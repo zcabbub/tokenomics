@@ -27,6 +27,8 @@ title: Can I use computer simulations?
 Implementation:
 - [ ] turn it into a CLI tool
 - [ ] create a simple 2 party sytem buyer seller 
+	- [ ] assume that buyers don t move or reverse
+	- [ ] buyers = curators
 - [ ] add curator
 - [ ] add centralized party 
 - [ ] radius is proportional with wealth
