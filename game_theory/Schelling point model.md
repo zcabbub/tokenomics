@@ -1,3 +1,4 @@
+implementation: https://github.com/projectmesa/mesa/tree/main/examples/schelling
 
-http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/
+explanation: http://nifty.stanford.edu/2014/mccown-schelling-model-segregation/
 
