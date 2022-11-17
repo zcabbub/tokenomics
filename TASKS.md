@@ -16,6 +16,10 @@
 - adversarial networks do not hold in data privacy
 		- 33 bits of entropy A Narayanan blog
 
+papers
+- [ ] A Marketplace for Data: An Algorithmic Solution: https://arxiv.org/pdf/1805.08125.pdf
+- [ ] Marketplaces for Data: An Initial Survey: https://dl.acm.org/doi/pdf/10.1145/2481528.2481532
+
 
 *create*:
 - curator design to get closer to valyu, trust into curators
@@ -28,6 +32,11 @@
 
 
 ### Thesis Tasks
+https://research-methodology.net/research-methodology/research-aims-and-objectives/
 - viva presentation
 - thesis structure
 - logbook
+
+
+**Learn solidity**:
+https://learnxinyminutes.com/docs/solidity/

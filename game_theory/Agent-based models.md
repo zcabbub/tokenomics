@@ -24,6 +24,7 @@ title: Can I use computer simulations?
 - [ ] Schelling point example explanation: https://towardsdatascience.com/introduction-to-mesa-agent-based-modeling-in-python-bcb0596e1c9a
 - [ ] examples: https://github.com/projectmesa/mesa/tree/main/examples
 
+
 Implementation:
 - [ ] turn it into a CLI tool
 - [ ] create a simple 2 party sytem buyer seller 
