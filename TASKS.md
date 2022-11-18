@@ -1,6 +1,7 @@
 
 ### Startup Tasks
 *read*:
+- slides from multi-agent based models implementations
 - understand how to test a good marketplace: 
 	- https://www.reforge.com/brief/the-8-most-important-metrics-for-marketplace-growth#v1kf-fVMFO46u3A3z62T1w
 	- https://en.wikipedia.org/wiki/Economic_equilibrium
@@ -15,6 +16,7 @@
 - truly successful decentralized organizations (*darie discussion*)
 - adversarial networks do not hold in data privacy
 		- 33 bits of entropy A Narayanan blog
+-
 
 papers
 - [ ] A Marketplace for Data: An Algorithmic Solution: https://arxiv.org/pdf/1805.08125.pdf
