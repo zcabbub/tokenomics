@@ -16,7 +16,7 @@ obj func defines how are they trying to achieve the goal(*defined by utility fun
 title: def
 collapse: closed
 
-obj func defines how are they trying to achieve the goal(*defined by utility function*)
+utility func defines what are they trying to achieve 
 ```
 - ***seller***:
 	- make a revenue
@@ -29,7 +29,7 @@ obj func defines how are they trying to achieve the goal(*defined by utility fun
 
 #### grid interpretation:
 - *different colors*: different actors
-- *empty space*: ?
+- *empty space*: available opportunity limited by discoverability(i.e. there is an opportunity, but you don't see it)
 - *distance*: the closer you are to a seller, the more you afford to buy its data.
 - *movement*: 
 	- radial discoverability
@@ -40,6 +40,7 @@ obj func defines how are they trying to achieve the goal(*defined by utility fun
 - set sellers
 	- number sellers and buyers are variables
 - buyers do a grid search to find the best offers and position themselves as close as possible to the cheapest/best offers
+	- 1 step at a time
 - actors move when:
 	- when a seller dissapears
 	- a buyer has no tokens
@@ -55,4 +56,8 @@ obj func defines how are they trying to achieve the goal(*defined by utility fun
 - [ ] how many empty spaces for each 2-3-4 party system?
 	try a range and see the best performance
 - [ ] 4 party system with AMM: Market makers exist to increase and manipulate volume, but with data, we have unlimited volume for data. How should a market maker look like?
+- [ ] make function that changes the data quality - input Label
+- [ ] make function that creates data products - input Bounty
+- [ ] make a function that turns buyers into sellers after they
+- [ ] 
 
