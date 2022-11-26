@@ -1,4 +1,7 @@
+
+
 how do you create a market for an asset that has unlimited volume?
+
 
 ### actors functions: 
 ##### *objective*:
@@ -48,7 +51,7 @@ utility func defines what are they trying to achieve
 - datasets have *different quality* based on Label 
 - datasets have *different prices* based on Pricing Engine
 - every X steps, the system produces new datasets
-- no. of datasets produced = no. of sellers
+- CHANGE no. of datasets produced = no. of sellers
 - the *mean* quality of the datasets increases with each production
 
 ***Local radial system***
@@ -133,12 +136,12 @@ utility func defines what are they trying to achieve
 
 
 
-#### System 1 rules - bonding curve?:
+#### System 1 rules:
 - buyers can only buy if they are on the same cell as sellers
 - the price difference comes from the different time agents arrive to the seller
 	- the later you come, the more money you pay
 
-#### System 2 rules:
+#### System 2 rules - :
 - buyers can buy from everywhere, and their payment is proportional with the distance
 
 
