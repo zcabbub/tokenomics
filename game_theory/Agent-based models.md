@@ -14,6 +14,16 @@ title: Can I use computer simulations?
 
 
 
+#### Experiments
+- V - Valyu token
+- D - Datatoken
+
+1. V - bonding curve ; D - fixed price
+2. V - ; D
+
+
+
+
 
 
 #### Questions:

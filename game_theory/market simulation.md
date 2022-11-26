@@ -146,5 +146,21 @@ utility func defines what are they trying to achieve
 
 
 
+Steps for experiments:
+1. start with 1 product marketplace (much like oil)
+	-  buyer, seller
+	- metrics: bid ask spread
+	- discoverability implies reducing bid-ask spread the dif between Ps - Pb
+	- the quality is the same (NO curator)
+2. add variable quality but still no curators
+	1. matching based on best quality 
+		1. 
+	2. matching based on best quality at a desired price
+		1. input order
+	3. price range slippae
+		1. ie accept a diff range of price offers
+3. add the curators 
+	1. di
+
 
 
