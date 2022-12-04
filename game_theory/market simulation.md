@@ -1,4 +1,5 @@
 
+https://www.noveltech.dev/simulation-market-python/
 
 how do you create a market for an asset that has unlimited volume?
 
@@ -148,9 +149,9 @@ utility func defines what are they trying to achieve
 
 Steps for experiments:
 1. start with 1 product marketplace (much like oil)
-	-  buyer, seller
-	- metrics: bid ask spread
-	- discoverability implies reducing bid-ask spread the dif between Ps - Pb
+	- N buyer, seller
+	- metrics: bid ask spread or optim price
+	- discoverability implies reducing bid-ask spread: the dif between Ps - Pb
 	- the quality is the same (NO curator)
 2. add variable quality but still no curators
 	1. matching based on best quality 

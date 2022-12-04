@@ -1,0 +1,1 @@
+game theory maths: https://www.oreilly.com/library/view/financial-theory-with/9781098104344/ch04.html
