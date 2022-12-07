@@ -33,6 +33,7 @@ more: https://www.quantifiedstrategies.com/is-the-stock-market-a-zero-sum-game/
 *optional*: this number stays constant over time: some agents get fulfilled and disappear, while other new unsatisfied ones are created
 we have orders
 
+
 ##### Actions - *objective functions*
 *buyers*:
 - accept order saw
