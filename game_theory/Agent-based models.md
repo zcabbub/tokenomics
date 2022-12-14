@@ -1,4 +1,5 @@
 
+
 ### mechanism types
 ##### - bonding:
 	- all prices are determined and enforced using a function between supply(total number of tokens issued) and price that defines the bonding curve

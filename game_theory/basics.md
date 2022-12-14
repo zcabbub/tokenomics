@@ -12,3 +12,11 @@ content: https://www.math.uci.edu/~mathcircle/materials/2014.06.03MSMC.pdf
 
 ***zero-sum game***
 A zero-sum game is where one person’s gain is another person’s loss – thus there is no wealth created and the overall benefit is zero.
+
+
+
+**Normal form game**: 
+- a game in normal form is just a function
+
+**Extensive form game**:
+- just a tree

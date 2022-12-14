@@ -1,8 +1,49 @@
 
 https://www.noveltech.dev/simulation-market-python/
 
-how do you create a market for an asset that has unlimited volume?
 
+##### Start:
+
+- 1 data asset
+- 1 seller
+- N buyers
+	- buyers have different amounts of money
+- 
+
+##### Step:
+
+##### *V1*:
+set different versions from the beginning
+
+##### *V2*:
+as time passes, different versions with different prices appear(*sellers that curated the dataset*)
+- how they appear? how many with lower/bigger price?
+
+- sellers have a satisfaction metric that:
+	- decreases as time passes (*e.g., after X steps from the last buy, seller leaves -> decides there is no demand for it*)
+	- increases when a buyer buys
+
+- what stops buyers from always buying the most valuable dataset?
+	- *the price*: buyers have different amounts of money and are discouraged to spend all of their money on a dataset. maybe just some of them(%) will be foolish(*behavioral system*)
+
+
+#### Goal:
+- see how it converges to economic equilibrium
+	- HOW?
+- observe what data versions are still alive after X steps
+- observe where the buyers with the most money end up being?
+
+
+
+
+
+
+
+
+
+
+
+## OLD IDEAS
 
 ### actors functions: 
 ##### *objective*:
@@ -30,9 +71,15 @@ utility func defines what are they trying to achieve
 	- make a revenue
 
 
-### Versions:
-- [ ] 1 seller - N buyers
-- [ ] N sellers - N buyers
+
+
+
+
+
+
+
+
+
 
 
 #### grid interpretation:
@@ -55,7 +102,7 @@ utility func defines what are they trying to achieve
 - CHANGE no. of datasets produced = no. of sellers
 - the *mean* quality of the datasets increases with each production
 
-***Local radial system***
+***Local radial system*** 
 - each seller is like a hot spot
 - the price a buyer gets for the data is proportional with the distance to the seller? *- i.e. if you are X cells away from the seller your price is the dataset price multiplied with a factor derived from X*
 	- Question: because we have a different price for each buyer, since datatokens change in value? 
