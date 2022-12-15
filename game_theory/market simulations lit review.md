@@ -21,8 +21,6 @@
 		- the best token reward for the curators 
 
 
-Differences from price evolution with expectation model:
-
 
 Differences
 | Data market model           | Sugar producer firm model       |
@@ -32,9 +30,14 @@ Differences
 
 
 Analogies
-
 | Data market model           | Sugar producer firm model       |
 | --------------------------- | ------------------------------- |
 | users/curators decide labour(new data) supply | households decide labor supply |
 | profit condition            | non-profit condition            | 
 
+TODO continue to follow the model from the paper
+
+my experiments will be based on perfect(without data pricing) and imperfect competition
+
+Goals: 
+- see how a data pricing mechanism influences the 
