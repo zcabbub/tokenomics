@@ -8,8 +8,10 @@ secondary:
 - fiscal policy -> Valyu spending 
 	- neutral policy
 	- expansionary policy (*the one Valyu will approach in the beginning*)
+		- probably reinvesting
 	- contractory policy
-- security?
+- security
+	- in what way? data? token?
 
 
 

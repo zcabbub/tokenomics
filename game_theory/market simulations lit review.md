@@ -41,3 +41,9 @@ my experiments will be based on perfect(without data pricing) and imperfect comp
 
 Goals: 
 - see how a data pricing mechanism influences the 
+
+
+
+monopolistic competition:
+- imperfect substitutes -> 
+- if it is harder -> oligopolie, monopol
