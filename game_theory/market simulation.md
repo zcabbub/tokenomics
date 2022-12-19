@@ -32,6 +32,7 @@ as time passes, different versions with different prices appear(*sellers that cu
 	- HOW?
 - observe what data versions are still alive after X steps
 - observe where the buyers with the most money end up being?
+- check the ripple effect in non-zero sum game -> multiply prediction
 
 
 
