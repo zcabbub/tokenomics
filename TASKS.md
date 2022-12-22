@@ -1,4 +1,9 @@
 
+- https://backstage.io/
+- naz pictures
+- 
+
+
 ### Startup Tasks
 *read*:
 - slides from multi-agent based models implementations
