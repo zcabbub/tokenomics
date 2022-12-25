@@ -3,12 +3,11 @@ https://www.noveltech.dev/simulation-market-python/
 
 
 ##### Start:
-
 - 1 data asset
 - 1 seller
 - N buyers
 	- buyers have different amounts of money
-- 
+
 
 ##### Step:
 

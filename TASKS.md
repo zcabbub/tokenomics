@@ -1,7 +1,7 @@
 
-- https://backstage.io/
-- naz pictures
-- 
+- https://backstage.io/ - community
+- https://gitcoin.co/ - bounty
+- notion
 
 
 ### Startup Tasks
@@ -21,7 +21,6 @@
 - truly successful decentralized organizations (*darie discussion*)
 - adversarial networks do not hold in data privacy
 		- 33 bits of entropy A Narayanan blog
--
 
 papers
 - [ ] A Marketplace for Data: An Algorithmic Solution: https://arxiv.org/pdf/1805.08125.pdf
