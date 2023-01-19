@@ -3,6 +3,7 @@
 #### Tools
 - [swarm](http://www.swarm.org/wiki/Main_Page) platform for simulating agent-based models
 - mesa
+- NashPy
 
 
 
