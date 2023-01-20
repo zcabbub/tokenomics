@@ -1,6 +1,7 @@
 #### economic forces (incentives):
 **primary**:
 - demand/supply
+	- HOW?
 - exchange rate -> token exchange rate? data valuation as an asset
 - interest rate -> staking program to support liquidity
 
