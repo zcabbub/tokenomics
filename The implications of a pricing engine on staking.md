@@ -7,12 +7,13 @@ People can stake *X* amount of DATA token into the data product pool to receive 
 
 However, since we want to enable the liquidity-providing qualities of data tokenization, we have to offer ***fractionary ownership***.
 
+==pre-Liquidity==
 Therefore, people must also be able to stake a proportional amount of DATA tokens, and get the respective proportional part of the data product. 
 ***Example***: if the respective person wants only 5 features, he should pay only 50% of *X* DATA tokens to own them. This is the naive approach.
 
+==*only post-Liquidity, since initially we want to provide opportunity through more asymmetries.*==
 We can augment it by taking advantage of the Data Pricing Engine. Considering that each feature has a weight provided, we can yield the final price as a combination of percentages and weights. ***Example***: if a person wants some specific 5 features he should pay 
 (10% x W1 + 10% x W2 + ... + 10% x W5)  of X DATA tokens.
-==*only post-Liquidity, since initially we want to provide opportunity through more asymmetries.*==
 
 *However, this can only be achieved if  at the time of staking DATA tokens, we tax only on the Apparent value of the Data product, which is the **same for all** Buyers. 
 Since the latent/extrinsic application-dependent value is **different** for each buyer, we have to tax it only at the time of use.
