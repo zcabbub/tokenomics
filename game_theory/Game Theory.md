@@ -27,3 +27,9 @@ gamma
 
 [[Economic equilibriums]]
 
+
+[[Finite games vs Infinite games]]
+
+
+
+
