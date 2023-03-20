@@ -1,0 +1,1 @@
+https://github.com/ksurendra/awesome-venture-capital

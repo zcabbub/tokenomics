@@ -8,6 +8,8 @@
 
 
 
+
+
 #### Mechanisms
 - offers mechanism -> such as NFTs:
 	- asset has a price estimation
@@ -20,6 +22,11 @@
 	- Uses:
 		- the best price for token
 		- the best token reward for the curators 
+
+
+
+
+
 
 
 
