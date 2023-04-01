@@ -1,3 +1,8 @@
+*called reverse game-theory*
+
+
+algorithmic mechanism design 
+
 https://github.com/jpantunes/awesome-cryptoeconomics#mechanism-design
 
 

@@ -1,4 +1,40 @@
 
+Questions:
+- Discuss disutility from other collectors obtaining the same product (scarcity). 
+	- different for public and private data
+	- thesis: assume all data is private, define private (not publicly available)
+- Model supply and demand: Data attributes (supply) and Participants Data Values (demand). Need a couple of attributes to set for the product and to randomize for the participants. 
+	- consistency
+	- completeness
+	- timeliness
+	- accuracy
+	- privacy - personal data or not
+	- variety - has outliers, how many categories (maybe is in consistency)
+
+- competitive or truthful auction?
+	- https://www.cs.cmu.edu/~sandholm/cs15-892F15/Competitive%20auctions%20for%20multiple%20digital%20goods.pdf
+- multiple or single price auction?
+	- single-price auction - using bids, determine the optimal price for everyone. ==Reduces the importance of specialized knowledge regarding market demand and production/collection== 
+	- multi-price auction - using bids, determine the optimal price for everyone, but only those whose bid is not lower will pay it. 
+		- to maximize seller's utility: *not sure*
+		- to maximize buyer's utility: he can better display its needs
+	- https://www.cs.jhu.edu/~scheideler/club/spring_02/p735-goldberg.pdf
+- Initial price: 
+	- if "VCG-digital goods" auction: how do I initialize the bids accordingly to their values? 
+		- basically value-revealing, **truthful mechanism**. 
+		- In a real setting you can count on the people's incentives to lower the price, but in a simulation?
+		- *the same issue as we have with score-price translation.* 
+	- if bonding curve: no bids, so from where do I start the bonding curve? 
+
+
+
+components:
+- valuation engine
+- 
+
+
+
+
 Economics Python - https://janboone.github.io/python_economics/economics.html 
 
 #### Theoretical:
