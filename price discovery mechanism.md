@@ -86,3 +86,4 @@ The idea is to show that the price discovery is more efficient using tokenizatio
 
 
 design market participants self-interest/incentives
+price elasticity
