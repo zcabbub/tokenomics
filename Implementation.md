@@ -1,3 +1,16 @@
+Problems:
+- not making profit. Do they have to?
+- what contributes to the price discoverability of Data products? Show what can contribute
+
+
+Assumptions:
+- the agents valuations are maximum X far from real valuation
+	- IDEA: you can show the difference in the profit of the agents when bidding strategies are more informed (tokenization -> more information embedded)
+		- more informed -> agents' valuations are within 1 stddev from the real values
+		- not so informed -> completely random, quantify the impact
+- maximum item value is 60 = sum(10 * each of 6 qualities)
+- all data is private(see below)
+
 
 Questions:
 - Discuss disutility from other collectors obtaining the same product (scarcity). 
