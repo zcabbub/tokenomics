@@ -78,7 +78,7 @@ Basically a VCG auction for digital goods - http://users.iems.northwestern.edu/~
 
 
 
-The idea is to show that the price discovery is more efficient using tokenization. Another way to state is how asset tokenization (digitalisation) influences price discovery and provides liquidity. 
+The idea is to show that the price discovery is more efficient using tokenization. Another way to state is how asset tokenization (digitalisation) enhances price discovery through very low transaction cost and liquidity. 
 
 *efficiency*: more value-related information is incorporated into the transaction price
 
