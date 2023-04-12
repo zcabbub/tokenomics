@@ -1,3 +1,38 @@
+Formalizing the problem:
+- Environment
+	- state - $O_t$ (observation) 
+- Reward
+	- signal per time-step
+- Agent
+	- state - $S_t$ (could be last observation - $S_t = O_t$ - or *complete history*, or a *generic update*)
+	- policy - agent behaviour, *map between agent state to action*
+		- deterministic policy: $A = \pi(S)$ - *for a particular state yield the same result always*
+		- stochastic policy: $\pi(A|S) = p(A|S)$
+	- value function - an estimation of future rewards, *expected return*
+	- model - predicts what the environment will do next
+
+Agent categories:
+- value based
+	- no policy
+	- value function
+- policy based
+	- policy
+	- no value function
+- actor critic
+	- policy
+	- value function
+
+Agent categories
+- Model Free
+	- Policy and/or Value function
+	- no model (cannot predict the environment at all)
+- model based
+	- optionally policy and/or value function
+	- model
+
+
+
+
 Problems:
 - not making profit. Do they have to?
 - what contributes to the price discoverability of Data products? Show what can contribute
