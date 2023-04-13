@@ -1,4 +1,4 @@
-Formalizing the problem:
+Formalizing the Learning problem:
 - Environment
 	- state - $O_t$ (observation) 
 - Reward
@@ -31,7 +31,9 @@ Agent categories
 	- model
 
 
-
+Experiment 1 - 4 party market system 
+Experimennt 2 - Data discoverability
+Experiment 3 - statistical testing 
 
 Problems:
 - not making profit. Do they have to?
@@ -45,6 +47,7 @@ Assumptions:
 		- not so informed -> completely random, quantify the impact
 - maximum item value is 60 = sum(10 * each of 6 qualities)
 - all data is private(see below)
+- agents discover the distribution while searching
 
 
 Questions:
