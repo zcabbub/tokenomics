@@ -11,6 +11,7 @@ Formalizing the Learning problem:
 	- value function - an estimation of future rewards, *expected return*
 	- model - predicts what the environment will do next
 
+
 Agent categories:
 - value based
 	- no policy

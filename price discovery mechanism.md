@@ -8,7 +8,6 @@ Factors include:
 - economical/political situation/context
 
 
-
 *Price is what you pay, value is what you get*
 
 #### Valuation types:
@@ -24,7 +23,6 @@ Factors include:
 
 
 ***Definition***: the point where supply and demand intersect is the discovered **spot** market price
-
 
 
 #### [[Price discovery]]
@@ -68,7 +66,7 @@ Data as a digital asset:
 Types of price mechanisms for digital assets:
 - bonding curve - reduces the excess demand or supply by bonding the price to a function curve determined by time and/or no. of buyers. 
 
-- [digital goods auction](https://en.wikipedia.org/wiki/Digital_goods_auction): a seller has an unlimited supply of a certain item. Require known valuations and therefore *truthful mechanism designs* are needed to reveal those.
+- [digital goods auction](https://en.wikipedia.org/wiki/Digital_goods_auction): a seller has an unlimited supply of a certain item. Require known valuations and therefore *truthful mechanism designs* are needed to reveal those. Solved through Random-sampling mechanisms.
 
 
 Innovation part: a new type of auction that combines digital goods auctions with [VCG auction](https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_auction) to reveal the participants valuations through truthful mechanisms. 
@@ -77,11 +75,9 @@ Basically a VCG auction for digital goods - http://users.iems.northwestern.edu/~
 
 
 
-
 The idea is to show that the price discovery is more efficient using tokenization. Another way to state is how asset tokenization (digitalisation) enhances price discovery through very low transaction cost and liquidity. 
 
 *efficiency*: more value-related information is incorporated into the transaction price
-
 
 
 
