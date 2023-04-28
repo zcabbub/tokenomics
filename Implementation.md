@@ -11,7 +11,7 @@ Formalizing the Learning problem:
 	- value function - an estimation of future rewards, *expected return*
 	- model - predicts what the environment will do next
 
-[[html-to-markdown]]
+
 Agent categories:
 - value based
 	- no policy
@@ -24,7 +24,7 @@ Agent categories:
 	- value function
 
 Agent categories
-- Model Free
+- model free
 	- Policy and/or Value function
 	- no model (cannot predict the environment at all)
 - model based
