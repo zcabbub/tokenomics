@@ -66,13 +66,12 @@ Data as a digital asset:
 Types of price mechanisms for digital assets:
 - bonding curve - reduces the excess demand or supply by bonding the price to a function curve determined by time and/or no. of buyers. 
 
-- [digital goods auction](https://en.wikipedia.org/wiki/Digital_goods_auction): a seller has an unlimited supply of a certain item. Require known valuations and therefore *truthful mechanism designs* are needed to reveal those. Solved through Random-sampling mechanisms.
+- [digital goods auction](https://en.wikipedia.org/wiki/Digital_goods_auction): a seller has an unlimited supply of a certain item. Require known valuations and therefore *truthful mechanism designs* are needed to reveal those. Solved through Random-sampling or consensus mechanisms.
 
 
-Innovation part: a new type of auction that combines digital goods auctions with [VCG auction](https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_auction) to reveal the participants valuations through truthful mechanisms. 
+Innovation part: a new type of auction that combines digital goods auctions with truthful mechanisms to reveal the participants valuations. 
 
 Basically a VCG auction for digital goods - http://users.iems.northwestern.edu/~peipauj/approximation.pdf
-
 
 
 The idea is to show that the price discovery is more efficient using tokenization. Another way to state is how asset tokenization (digitalisation) enhances price discovery through very low transaction cost and liquidity. 
@@ -80,6 +79,39 @@ The idea is to show that the price discovery is more efficient using tokenizatio
 *efficiency*: more value-related information is incorporated into the transaction price
 
 
-
-design market participants self-interest/incentives
 price elasticity
+
+
+Random Sampling Optimal Price(RSOP) auction implementation:
+- http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf
+
+Revenue maximization:
+- Robust Learning of Optimal Auctions https://proceedings.neurips.cc/paper/2021/file/b19aa25ff58940d974234b48391b9549-Paper.pdf
+- Efficient Empirical Revenue Maximization in Single-Parameter Auction Environments: https://arxiv.org/pdf/1610.09976.pdf
+
+
+
+GOAL + ALTERNATIVE IDEAS - iterative auction
+*source*: http://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf
+
+![[Pasted image 20230518162550.png]]
+
+![[Pasted image 20230518162613.png]]
+
+
+
+
+
+we have to start initially with choosing 
+
+
+the maximum price and then simply start to incorporate knowledge into the mechanism
+
+
+1. Get bids
+2. Split them randomly into 2 markets $M_L$ and $M_R$
+3. Calculate the optimal price for each market, based on the bids. The optimal price is:
+	- first time: opt = max(bids) 
+	- as we collect more and more bids, we collect data and we can use dynamic pricing
+4. Set the price
+	- usually we apply the price from left to the price from right, but we would get price discrepancy
