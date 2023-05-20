@@ -79,7 +79,7 @@ also, see example from [1]
 title: check ocean whitepaper about $difficulty$ formula
 ```
 
-9. If Bob finds dataset X useful, he can stake his O in X in order to receive a certain amount of DX. 
+9. If Bob finds dataset X useful, he can stake his O in X in order to receive a certain amount of DX. As 
 	- *for the sake of this example, consider that he does that*
 10. Bob makes X available for download as he staked O into it and now owns DX.
 
